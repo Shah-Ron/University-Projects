@@ -1,1 +1,2 @@
 This is the final project I've submitted for my Python course. It is very simple project that will take get live currency values and use it and convert it into the required currency values.
+There are some obvious flaws with this project which I didn't fix as it wasn't necessary to make a flawless one. Even though I dealt with a lot of errors that could occur, there still exist some flaws, which can be dealt in the future.

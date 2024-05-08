@@ -3,3 +3,13 @@ This is the individual project I submitted for the client that was brought to us
 ### AIM 
 
 The aim was to collect data from one of the websites present to us, and clean the data, make the meta data, and convert the data into SDMX format and provide the data to the client.
+
+### Explaination:
+
+<b>scrapeData.py</b>:  
+
+The aim of this python file is to scrape the data from the website as provided. The scraping of the data will be automated or scheduled Quarterly as required to get the latest data. Once the data is collected the data will be stored as an excel file and the filename will be saved in a txt file as well. 
+
+<b>cleaning.r</b>
+
+The aim of this R file is to clean the acquired data. I used R here as RStudio is a really good IDE for the visualisation and dealing of data. I've cleaned out all the data and all the Not Available fields have been set to zero as well. Once the cleaning was done, I converted them to CSV files and saved them. 

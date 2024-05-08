@@ -1,0 +1,576 @@
+"Date","Offense type","Observations"
+2018-03-31,"Sexual Assault",19.2
+2018-03-31,"Acts Intended To Cause Injury",0
+2018-03-31,"Unlawful Entry With Intent/Burglary",12.2
+2018-03-31,"Homicide",0
+2018-03-31,"Illicit Drug Offences",0
+2018-03-31,"Robbery, Extortion",0
+2018-03-31,"Offences Against Justice",0
+2018-03-31,"Theft",0
+2018-03-31,"Abduction, Harassment",0
+2018-03-31,"Prohibited And Regulated Weapons",0
+2018-03-31,"Traffic",2.9
+2018-03-31,"Fraud, Deception",0
+2018-03-31,"Property Damage",1.3
+2018-03-31,"Public Order",0
+2018-03-31,"Dangerous Or Negligent Acts",0
+2018-03-31,"Miscellaneous Offences",0
+2018-03-31,"Unknown",0
+2018-03-31,"Violence",38.6
+2018-03-31,"Drugs",12.1
+2018-03-31,"Dishonesty",5.6
+2018-03-31,"Other",5
+2018-03-31,"Weapons",1.7
+2018-03-31,"Breaches",1.4
+2018-06-30,"Sexual Assault",19.8
+2018-06-30,"Acts Intended To Cause Injury",0
+2018-06-30,"Unlawful Entry With Intent/Burglary",11.9
+2018-06-30,"Homicide",0
+2018-06-30,"Illicit Drug Offences",0
+2018-06-30,"Robbery, Extortion",0
+2018-06-30,"Offences Against Justice",0
+2018-06-30,"Theft",0
+2018-06-30,"Abduction, Harassment",0
+2018-06-30,"Prohibited And Regulated Weapons",0
+2018-06-30,"Traffic",2.9
+2018-06-30,"Fraud, Deception",0
+2018-06-30,"Property Damage",1.3
+2018-06-30,"Public Order",0
+2018-06-30,"Dangerous Or Negligent Acts",0
+2018-06-30,"Miscellaneous Offences",0
+2018-06-30,"Unknown",0
+2018-06-30,"Violence",38.3
+2018-06-30,"Drugs",12.3
+2018-06-30,"Dishonesty",6
+2018-06-30,"Other",4.7
+2018-06-30,"Weapons",1.5
+2018-06-30,"Breaches",1.3
+2018-09-30,"Sexual Assault",20.2
+2018-09-30,"Acts Intended To Cause Injury",0
+2018-09-30,"Unlawful Entry With Intent/Burglary",11.2
+2018-09-30,"Homicide",0
+2018-09-30,"Illicit Drug Offences",0
+2018-09-30,"Robbery, Extortion",0
+2018-09-30,"Offences Against Justice",0
+2018-09-30,"Theft",0
+2018-09-30,"Abduction, Harassment",0
+2018-09-30,"Prohibited And Regulated Weapons",0
+2018-09-30,"Traffic",2.3
+2018-09-30,"Fraud, Deception",0
+2018-09-30,"Property Damage",1.2
+2018-09-30,"Public Order",0
+2018-09-30,"Dangerous Or Negligent Acts",0
+2018-09-30,"Miscellaneous Offences",0
+2018-09-30,"Unknown",0
+2018-09-30,"Violence",39.3
+2018-09-30,"Drugs",12.6
+2018-09-30,"Dishonesty",6.2
+2018-09-30,"Other",4.5
+2018-09-30,"Weapons",1.4
+2018-09-30,"Breaches",1.1
+2018-12-31,"Sexual Assault",20.3
+2018-12-31,"Acts Intended To Cause Injury",0
+2018-12-31,"Unlawful Entry With Intent/Burglary",11
+2018-12-31,"Homicide",0
+2018-12-31,"Illicit Drug Offences",0
+2018-12-31,"Robbery, Extortion",0
+2018-12-31,"Offences Against Justice",0
+2018-12-31,"Theft",0
+2018-12-31,"Abduction, Harassment",0
+2018-12-31,"Prohibited And Regulated Weapons",0
+2018-12-31,"Traffic",2.2
+2018-12-31,"Fraud, Deception",0
+2018-12-31,"Property Damage",1.4
+2018-12-31,"Public Order",0
+2018-12-31,"Dangerous Or Negligent Acts",0
+2018-12-31,"Miscellaneous Offences",0
+2018-12-31,"Unknown",0
+2018-12-31,"Violence",40.5
+2018-12-31,"Drugs",12.1
+2018-12-31,"Dishonesty",5.6
+2018-12-31,"Other",4.3
+2018-12-31,"Weapons",1.6
+2018-12-31,"Breaches",1
+2019-03-31,"Sexual Assault",19.5
+2019-03-31,"Acts Intended To Cause Injury",0
+2019-03-31,"Unlawful Entry With Intent/Burglary",11.7
+2019-03-31,"Homicide",0
+2019-03-31,"Illicit Drug Offences",0
+2019-03-31,"Robbery, Extortion",0
+2019-03-31,"Offences Against Justice",0
+2019-03-31,"Theft",0
+2019-03-31,"Abduction, Harassment",0
+2019-03-31,"Prohibited And Regulated Weapons",0
+2019-03-31,"Traffic",2.2
+2019-03-31,"Fraud, Deception",0
+2019-03-31,"Property Damage",1.2
+2019-03-31,"Public Order",0
+2019-03-31,"Dangerous Or Negligent Acts",0
+2019-03-31,"Miscellaneous Offences",0
+2019-03-31,"Unknown",0
+2019-03-31,"Violence",39.7
+2019-03-31,"Drugs",11.4
+2019-03-31,"Dishonesty",6.1
+2019-03-31,"Other",5
+2019-03-31,"Weapons",1.6
+2019-03-31,"Breaches",1.6
+2019-06-30,"Sexual Assault",19.3
+2019-06-30,"Acts Intended To Cause Injury",0
+2019-06-30,"Unlawful Entry With Intent/Burglary",11
+2019-06-30,"Homicide",0
+2019-06-30,"Illicit Drug Offences",0
+2019-06-30,"Robbery, Extortion",0
+2019-06-30,"Offences Against Justice",0
+2019-06-30,"Theft",0
+2019-06-30,"Abduction, Harassment",0
+2019-06-30,"Prohibited And Regulated Weapons",0
+2019-06-30,"Traffic",2.8
+2019-06-30,"Fraud, Deception",0
+2019-06-30,"Property Damage",1.4
+2019-06-30,"Public Order",0
+2019-06-30,"Dangerous Or Negligent Acts",0
+2019-06-30,"Miscellaneous Offences",0
+2019-06-30,"Unknown",0
+2019-06-30,"Violence",38.6
+2019-06-30,"Drugs",11
+2019-06-30,"Dishonesty",6.6
+2019-06-30,"Other",5.2
+2019-06-30,"Weapons",1.9
+2019-06-30,"Breaches",2.2
+2019-09-30,"Sexual Assault",19.3
+2019-09-30,"Acts Intended To Cause Injury",0
+2019-09-30,"Unlawful Entry With Intent/Burglary",10.8
+2019-09-30,"Homicide",0
+2019-09-30,"Illicit Drug Offences",0
+2019-09-30,"Robbery, Extortion",0
+2019-09-30,"Offences Against Justice",0
+2019-09-30,"Theft",0
+2019-09-30,"Abduction, Harassment",0
+2019-09-30,"Prohibited And Regulated Weapons",0
+2019-09-30,"Traffic",2.7
+2019-09-30,"Fraud, Deception",0
+2019-09-30,"Property Damage",1.4
+2019-09-30,"Public Order",0
+2019-09-30,"Dangerous Or Negligent Acts",0
+2019-09-30,"Miscellaneous Offences",0
+2019-09-30,"Unknown",0
+2019-09-30,"Violence",39.2
+2019-09-30,"Drugs",10.9
+2019-09-30,"Dishonesty",6.9
+2019-09-30,"Other",4.5
+2019-09-30,"Weapons",2
+2019-09-30,"Breaches",2.3
+2019-12-31,"Sexual Assault",19.6
+2019-12-31,"Acts Intended To Cause Injury",0
+2019-12-31,"Unlawful Entry With Intent/Burglary",10.6
+2019-12-31,"Homicide",0
+2019-12-31,"Illicit Drug Offences",0
+2019-12-31,"Robbery, Extortion",0
+2019-12-31,"Offences Against Justice",0
+2019-12-31,"Theft",0
+2019-12-31,"Abduction, Harassment",0
+2019-12-31,"Prohibited And Regulated Weapons",0
+2019-12-31,"Traffic",2.5
+2019-12-31,"Fraud, Deception",0
+2019-12-31,"Property Damage",1.2
+2019-12-31,"Public Order",0
+2019-12-31,"Dangerous Or Negligent Acts",0
+2019-12-31,"Miscellaneous Offences",0
+2019-12-31,"Unknown",0
+2019-12-31,"Violence",39.7
+2019-12-31,"Drugs",10.3
+2019-12-31,"Dishonesty",6.7
+2019-12-31,"Other",5
+2019-12-31,"Weapons",1.9
+2019-12-31,"Breaches",2.5
+2020-03-31,"Sexual Assault",18.9
+2020-03-31,"Acts Intended To Cause Injury",0
+2020-03-31,"Unlawful Entry With Intent/Burglary",10.8
+2020-03-31,"Homicide",0
+2020-03-31,"Illicit Drug Offences",0
+2020-03-31,"Robbery, Extortion",0
+2020-03-31,"Offences Against Justice",0
+2020-03-31,"Theft",0
+2020-03-31,"Abduction, Harassment",0
+2020-03-31,"Prohibited And Regulated Weapons",0
+2020-03-31,"Traffic",2.8
+2020-03-31,"Fraud, Deception",0
+2020-03-31,"Property Damage",1.2
+2020-03-31,"Public Order",0
+2020-03-31,"Dangerous Or Negligent Acts",0
+2020-03-31,"Miscellaneous Offences",0
+2020-03-31,"Unknown",0
+2020-03-31,"Violence",40.3
+2020-03-31,"Drugs",9.8
+2020-03-31,"Dishonesty",7
+2020-03-31,"Other",4.8
+2020-03-31,"Weapons",2.1
+2020-03-31,"Breaches",2.3
+2020-06-30,"Sexual Assault",19.6
+2020-06-30,"Acts Intended To Cause Injury",0
+2020-06-30,"Unlawful Entry With Intent/Burglary",10.5
+2020-06-30,"Homicide",0
+2020-06-30,"Illicit Drug Offences",0
+2020-06-30,"Robbery, Extortion",0
+2020-06-30,"Offences Against Justice",0
+2020-06-30,"Theft",0
+2020-06-30,"Abduction, Harassment",0
+2020-06-30,"Prohibited And Regulated Weapons",0
+2020-06-30,"Traffic",2.8
+2020-06-30,"Fraud, Deception",0
+2020-06-30,"Property Damage",1.3
+2020-06-30,"Public Order",0
+2020-06-30,"Dangerous Or Negligent Acts",0
+2020-06-30,"Miscellaneous Offences",0
+2020-06-30,"Unknown",0
+2020-06-30,"Violence",40.9
+2020-06-30,"Drugs",10.2
+2020-06-30,"Dishonesty",6.1
+2020-06-30,"Other",4.7
+2020-06-30,"Weapons",1.9
+2020-06-30,"Breaches",2
+2020-09-30,"Sexual Assault",20.5
+2020-09-30,"Acts Intended To Cause Injury",0
+2020-09-30,"Unlawful Entry With Intent/Burglary",10.4
+2020-09-30,"Homicide",0
+2020-09-30,"Illicit Drug Offences",0
+2020-09-30,"Robbery, Extortion",0
+2020-09-30,"Offences Against Justice",0
+2020-09-30,"Theft",0
+2020-09-30,"Abduction, Harassment",0
+2020-09-30,"Prohibited And Regulated Weapons",0
+2020-09-30,"Traffic",2.4
+2020-09-30,"Fraud, Deception",0
+2020-09-30,"Property Damage",1.3
+2020-09-30,"Public Order",0
+2020-09-30,"Dangerous Or Negligent Acts",0
+2020-09-30,"Miscellaneous Offences",0
+2020-09-30,"Unknown",0
+2020-09-30,"Violence",41.3
+2020-09-30,"Drugs",10.1
+2020-09-30,"Dishonesty",5.7
+2020-09-30,"Other",4.5
+2020-09-30,"Weapons",2.1
+2020-09-30,"Breaches",1.7
+2020-12-31,"Sexual Assault",21.9
+2020-12-31,"Acts Intended To Cause Injury",20
+2020-12-31,"Unlawful Entry With Intent/Burglary",9.9
+2020-12-31,"Homicide",9.2
+2020-12-31,"Illicit Drug Offences",10.1
+2020-12-31,"Robbery, Extortion",8.3
+2020-12-31,"Offences Against Justice",5.1
+2020-12-31,"Theft",3.8
+2020-12-31,"Abduction, Harassment",2.9
+2020-12-31,"Prohibited And Regulated Weapons",2
+2020-12-31,"Traffic",1.7
+2020-12-31,"Fraud, Deception",1.9
+2020-12-31,"Property Damage",1.3
+2020-12-31,"Public Order",0.8
+2020-12-31,"Dangerous Or Negligent Acts",0.8
+2020-12-31,"Miscellaneous Offences",0.1
+2020-12-31,"Unknown",0.2
+2020-12-31,"Violence",0
+2020-12-31,"Drugs",0
+2020-12-31,"Dishonesty",0
+2020-12-31,"Other",0
+2020-12-31,"Weapons",0
+2020-12-31,"Breaches",0
+2021-03-31,"Sexual Assault",21.6
+2021-03-31,"Acts Intended To Cause Injury",20.5
+2021-03-31,"Unlawful Entry With Intent/Burglary",10
+2021-03-31,"Homicide",9.3
+2021-03-31,"Illicit Drug Offences",9.6
+2021-03-31,"Robbery, Extortion",7.9
+2021-03-31,"Offences Against Justice",5
+2021-03-31,"Theft",3.9
+2021-03-31,"Abduction, Harassment",3.3
+2021-03-31,"Prohibited And Regulated Weapons",2
+2021-03-31,"Traffic",1.7
+2021-03-31,"Fraud, Deception",1.9
+2021-03-31,"Property Damage",1.4
+2021-03-31,"Public Order",0.7
+2021-03-31,"Dangerous Or Negligent Acts",0.7
+2021-03-31,"Miscellaneous Offences",0.1
+2021-03-31,"Unknown",0.4
+2021-03-31,"Violence",0
+2021-03-31,"Drugs",0
+2021-03-31,"Dishonesty",0
+2021-03-31,"Other",0
+2021-03-31,"Weapons",0
+2021-03-31,"Breaches",0
+2021-06-30,"Sexual Assault",22
+2021-06-30,"Acts Intended To Cause Injury",20.4
+2021-06-30,"Unlawful Entry With Intent/Burglary",10
+2021-06-30,"Homicide",9.4
+2021-06-30,"Illicit Drug Offences",9.7
+2021-06-30,"Robbery, Extortion",7.6
+2021-06-30,"Offences Against Justice",4.9
+2021-06-30,"Theft",4
+2021-06-30,"Abduction, Harassment",3.3
+2021-06-30,"Prohibited And Regulated Weapons",2
+2021-06-30,"Traffic",1.8
+2021-06-30,"Fraud, Deception",1.9
+2021-06-30,"Property Damage",1.3
+2021-06-30,"Public Order",0.8
+2021-06-30,"Dangerous Or Negligent Acts",0.6
+2021-06-30,"Miscellaneous Offences",0.1
+2021-06-30,"Unknown",0.2
+2021-06-30,"Violence",0
+2021-06-30,"Drugs",0
+2021-06-30,"Dishonesty",0
+2021-06-30,"Other",0
+2021-06-30,"Weapons",0
+2021-06-30,"Breaches",0
+2021-09-30,"Sexual Assault",22.8
+2021-09-30,"Acts Intended To Cause Injury",20.2
+2021-09-30,"Unlawful Entry With Intent/Burglary",9.9
+2021-09-30,"Homicide",9.5
+2021-09-30,"Illicit Drug Offences",9.6
+2021-09-30,"Robbery, Extortion",7.9
+2021-09-30,"Offences Against Justice",5.3
+2021-09-30,"Theft",3.9
+2021-09-30,"Abduction, Harassment",3.3
+2021-09-30,"Prohibited And Regulated Weapons",1.8
+2021-09-30,"Traffic",1.6
+2021-09-30,"Fraud, Deception",1.7
+2021-09-30,"Property Damage",1.2
+2021-09-30,"Public Order",0.7
+2021-09-30,"Dangerous Or Negligent Acts",0.4
+2021-09-30,"Miscellaneous Offences",0
+2021-09-30,"Unknown",0.2
+2021-09-30,"Violence",0
+2021-09-30,"Drugs",0
+2021-09-30,"Dishonesty",0
+2021-09-30,"Other",0
+2021-09-30,"Weapons",0
+2021-09-30,"Breaches",0
+2021-12-31,"Sexual Assault",23.4
+2021-12-31,"Acts Intended To Cause Injury",20.2
+2021-12-31,"Unlawful Entry With Intent/Burglary",10.1
+2021-12-31,"Homicide",9.8
+2021-12-31,"Illicit Drug Offences",9.3
+2021-12-31,"Robbery, Extortion",7.6
+2021-12-31,"Offences Against Justice",5.1
+2021-12-31,"Theft",3.4
+2021-12-31,"Abduction, Harassment",3.6
+2021-12-31,"Prohibited And Regulated Weapons",1.8
+2021-12-31,"Traffic",1.5
+2021-12-31,"Fraud, Deception",1.5
+2021-12-31,"Property Damage",1.3
+2021-12-31,"Public Order",0.6
+2021-12-31,"Dangerous Or Negligent Acts",0.6
+2021-12-31,"Miscellaneous Offences",0.1
+2021-12-31,"Unknown",0.1
+2021-12-31,"Violence",0
+2021-12-31,"Drugs",0
+2021-12-31,"Dishonesty",0
+2021-12-31,"Other",0
+2021-12-31,"Weapons",0
+2021-12-31,"Breaches",0
+2022-03-31,"Sexual Assault",23
+2022-03-31,"Acts Intended To Cause Injury",20.9
+2022-03-31,"Unlawful Entry With Intent/Burglary",10
+2022-03-31,"Homicide",9.9
+2022-03-31,"Illicit Drug Offences",8.3
+2022-03-31,"Robbery, Extortion",7.6
+2022-03-31,"Offences Against Justice",5.3
+2022-03-31,"Theft",3.8
+2022-03-31,"Abduction, Harassment",3.3
+2022-03-31,"Prohibited And Regulated Weapons",2
+2022-03-31,"Traffic",1.7
+2022-03-31,"Fraud, Deception",1.7
+2022-03-31,"Property Damage",1.3
+2022-03-31,"Public Order",0.6
+2022-03-31,"Dangerous Or Negligent Acts",0.4
+2022-03-31,"Miscellaneous Offences",0.1
+2022-03-31,"Unknown",0.1
+2022-03-31,"Violence",0
+2022-03-31,"Drugs",0
+2022-03-31,"Dishonesty",0
+2022-03-31,"Other",0
+2022-03-31,"Weapons",0
+2022-03-31,"Breaches",0
+2022-06-30,"Sexual Assault",22.9
+2022-06-30,"Acts Intended To Cause Injury",21.2
+2022-06-30,"Unlawful Entry With Intent/Burglary",9.4
+2022-06-30,"Homicide",10
+2022-06-30,"Illicit Drug Offences",8.1
+2022-06-30,"Robbery, Extortion",7.8
+2022-06-30,"Offences Against Justice",5.3
+2022-06-30,"Theft",3.7
+2022-06-30,"Abduction, Harassment",3.7
+2022-06-30,"Prohibited And Regulated Weapons",2
+2022-06-30,"Traffic",1.7
+2022-06-30,"Fraud, Deception",1.7
+2022-06-30,"Property Damage",1.3
+2022-06-30,"Public Order",0.5
+2022-06-30,"Dangerous Or Negligent Acts",0.5
+2022-06-30,"Miscellaneous Offences",0
+2022-06-30,"Unknown",0.2
+2022-06-30,"Violence",0
+2022-06-30,"Drugs",0
+2022-06-30,"Dishonesty",0
+2022-06-30,"Other",0
+2022-06-30,"Weapons",0
+2022-06-30,"Breaches",0
+2022-09-30,"Sexual Assault",22.1
+2022-09-30,"Acts Intended To Cause Injury",20.9
+2022-09-30,"Unlawful Entry With Intent/Burglary",9.4
+2022-09-30,"Homicide",9.8
+2022-09-30,"Illicit Drug Offences",8.5
+2022-09-30,"Robbery, Extortion",7.4
+2022-09-30,"Offences Against Justice",5.2
+2022-09-30,"Theft",4.2
+2022-09-30,"Abduction, Harassment",3.6
+2022-09-30,"Prohibited And Regulated Weapons",2
+2022-09-30,"Traffic",1.9
+2022-09-30,"Fraud, Deception",1.9
+2022-09-30,"Property Damage",1.6
+2022-09-30,"Public Order",0.6
+2022-09-30,"Dangerous Or Negligent Acts",0.7
+2022-09-30,"Miscellaneous Offences",0.1
+2022-09-30,"Unknown",0.1
+2022-09-30,"Violence",0
+2022-09-30,"Drugs",0
+2022-09-30,"Dishonesty",0
+2022-09-30,"Other",0
+2022-09-30,"Weapons",0
+2022-09-30,"Breaches",0
+2022-12-31,"Sexual Assault",22.1
+2022-12-31,"Acts Intended To Cause Injury",20.3
+2022-12-31,"Unlawful Entry With Intent/Burglary",9.7
+2022-12-31,"Homicide",9.6
+2022-12-31,"Illicit Drug Offences",8.6
+2022-12-31,"Robbery, Extortion",7.3
+2022-12-31,"Offences Against Justice",5.5
+2022-12-31,"Theft",4.4
+2022-12-31,"Abduction, Harassment",3.5
+2022-12-31,"Prohibited And Regulated Weapons",2.4
+2022-12-31,"Traffic",2
+2022-12-31,"Fraud, Deception",1.8
+2022-12-31,"Property Damage",1.5
+2022-12-31,"Public Order",0.6
+2022-12-31,"Dangerous Or Negligent Acts",0.5
+2022-12-31,"Miscellaneous Offences",0
+2022-12-31,"Unknown",0.2
+2022-12-31,"Violence",0
+2022-12-31,"Drugs",0
+2022-12-31,"Dishonesty",0
+2022-12-31,"Other",0
+2022-12-31,"Weapons",0
+2022-12-31,"Breaches",0
+2023-03-31,"Sexual Assault",22
+2023-03-31,"Acts Intended To Cause Injury",20.4
+2023-03-31,"Unlawful Entry With Intent/Burglary",10.4
+2023-03-31,"Homicide",9.3
+2023-03-31,"Illicit Drug Offences",8.4
+2023-03-31,"Robbery, Extortion",7.2
+2023-03-31,"Offences Against Justice",5.4
+2023-03-31,"Theft",4.7
+2023-03-31,"Abduction, Harassment",3.5
+2023-03-31,"Prohibited And Regulated Weapons",2
+2023-03-31,"Traffic",2
+2023-03-31,"Fraud, Deception",1.8
+2023-03-31,"Property Damage",1.3
+2023-03-31,"Public Order",0.7
+2023-03-31,"Dangerous Or Negligent Acts",0.7
+2023-03-31,"Miscellaneous Offences",0.1
+2023-03-31,"Unknown",0.1
+2023-03-31,"Violence",0
+2023-03-31,"Drugs",0
+2023-03-31,"Dishonesty",0
+2023-03-31,"Other",0
+2023-03-31,"Weapons",0
+2023-03-31,"Breaches",0
+2023-06-30,"Sexual Assault",21.7
+2023-06-30,"Acts Intended To Cause Injury",20.6
+2023-06-30,"Unlawful Entry With Intent/Burglary",10.2
+2023-06-30,"Homicide",9
+2023-06-30,"Illicit Drug Offences",8.2
+2023-06-30,"Robbery, Extortion",6.8
+2023-06-30,"Offences Against Justice",5.9
+2023-06-30,"Theft",5.1
+2023-06-30,"Abduction, Harassment",3.6
+2023-06-30,"Prohibited And Regulated Weapons",2.1
+2023-06-30,"Traffic",1.8
+2023-06-30,"Fraud, Deception",1.8
+2023-06-30,"Property Damage",1.7
+2023-06-30,"Public Order",0.7
+2023-06-30,"Dangerous Or Negligent Acts",0.6
+2023-06-30,"Miscellaneous Offences",0.2
+2023-06-30,"Unknown",0
+2023-06-30,"Violence",0
+2023-06-30,"Drugs",0
+2023-06-30,"Dishonesty",0
+2023-06-30,"Other",0
+2023-06-30,"Weapons",0
+2023-06-30,"Breaches",0
+2023-09-30,"Sexual Assault",21.3
+2023-09-30,"Acts Intended To Cause Injury",19.8
+2023-09-30,"Unlawful Entry With Intent/Burglary",10.5
+2023-09-30,"Homicide",8.9
+2023-09-30,"Illicit Drug Offences",8.7
+2023-09-30,"Robbery, Extortion",6.4
+2023-09-30,"Offences Against Justice",6.2
+2023-09-30,"Theft",5.1
+2023-09-30,"Abduction, Harassment",3.7
+2023-09-30,"Prohibited And Regulated Weapons",2
+2023-09-30,"Traffic",2
+2023-09-30,"Fraud, Deception",1.9
+2023-09-30,"Property Damage",1.7
+2023-09-30,"Public Order",0.9
+2023-09-30,"Dangerous Or Negligent Acts",0.7
+2023-09-30,"Miscellaneous Offences",0.2
+2023-09-30,"Unknown",0
+2023-09-30,"Violence",0
+2023-09-30,"Drugs",0
+2023-09-30,"Dishonesty",0
+2023-09-30,"Other",0
+2023-09-30,"Weapons",0
+2023-09-30,"Breaches",0
+2023-12-31,"Sexual Assault",21
+2023-12-31,"Acts Intended To Cause Injury",20.4
+2023-12-31,"Unlawful Entry With Intent/Burglary",10.7
+2023-12-31,"Homicide",8.8
+2023-12-31,"Illicit Drug Offences",8.2
+2023-12-31,"Robbery, Extortion",6.6
+2023-12-31,"Offences Against Justice",5.5
+2023-12-31,"Theft",5.4
+2023-12-31,"Abduction, Harassment",3.6
+2023-12-31,"Prohibited And Regulated Weapons",2.5
+2023-12-31,"Traffic",2.1
+2023-12-31,"Fraud, Deception",1.9
+2023-12-31,"Property Damage",1.6
+2023-12-31,"Public Order",0.8
+2023-12-31,"Dangerous Or Negligent Acts",0.6
+2023-12-31,"Miscellaneous Offences",0.3
+2023-12-31,"Unknown",0
+2023-12-31,"Violence",0
+2023-12-31,"Drugs",0
+2023-12-31,"Dishonesty",0
+2023-12-31,"Other",0
+2023-12-31,"Weapons",0
+2023-12-31,"Breaches",0
+2024-03-31,"Sexual Assault",20.6
+2024-03-31,"Acts Intended To Cause Injury",21
+2024-03-31,"Unlawful Entry With Intent/Burglary",10.7
+2024-03-31,"Homicide",8.8
+2024-03-31,"Illicit Drug Offences",8.6
+2024-03-31,"Robbery, Extortion",6.2
+2024-03-31,"Offences Against Justice",6
+2024-03-31,"Theft",5.3
+2024-03-31,"Abduction, Harassment",3.5
+2024-03-31,"Prohibited And Regulated Weapons",2.2
+2024-03-31,"Traffic",1.7
+2024-03-31,"Fraud, Deception",1.9
+2024-03-31,"Property Damage",1.8
+2024-03-31,"Public Order",0.9
+2024-03-31,"Dangerous Or Negligent Acts",0.6
+2024-03-31,"Miscellaneous Offences",0.2
+2024-03-31,"Unknown",0
+2024-03-31,"Violence",0
+2024-03-31,"Drugs",0
+2024-03-31,"Dishonesty",0
+2024-03-31,"Other",0
+2024-03-31,"Weapons",0
+2024-03-31,"Breaches",0

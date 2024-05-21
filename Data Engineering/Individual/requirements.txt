@@ -1,3 +1,11 @@
 readxl
 writexl
 tidyr
+RPostgres
+DBI
+requests
+bs4
+os
+json
+pandas
+flask

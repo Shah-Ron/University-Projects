@@ -13,3 +13,15 @@ The aim of this python file is to scrape the data from the website as provided. 
 <b>cleaning.r</b>
 
 The aim of this R file is to clean the acquired data. I used R here as RStudio is a really good IDE for the visualisation and dealing of data. I've cleaned out all the data and all the Not Available fields have been set to zero as well. Once the cleaning was done, I converted them to CSV files and saved them. 
+
+<b>dataFlask.py</b>
+
+The aim of this python file is to create an API for the data and metadata. It is done using Flask.
+
+<b>metaData.json</b>
+
+This file provides the metadata about the tables and their dimensions and respective observations.
+
+<b>requirements.txt</b>
+
+This file contains the different python and r packages that needs to be installed

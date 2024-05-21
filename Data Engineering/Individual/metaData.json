@@ -1,0 +1,142 @@
+{
+    "version": "1.0",
+    "metadata" :{
+        "Tables":{
+            "Age Group" : "Contains the statistics of the prisoners according to the age groups",
+            "Ethinicity" : "Contains the statistics of the prisoners according to the ethinicity",
+            "Offence Type" : "Contains the different offence done by the prisoners and its statistics",
+            "Prisoner Population" : "Contains the entire statistics of the different population of prisoners according to the gender",
+            "Security Class" : "Contains the different security classes the prisoners are divided as and its statistics"
+        },
+        "Age Group" :{
+            "Dimension" :{
+                "Date" : "Quarterly dates of the past five years",
+                "Age Group" : " Different Age groups classification",
+                "Observations" : "The observed statistics in percentage"
+            },
+            "Measurement" :{
+                "Age Group" :[
+                    "Under 20",
+                    "20 - 24",
+                    "25 - 29",
+                    "30 - 39",
+                    "40 - 49",
+                    "50 - 59",
+                    "60 and over"
+                ]
+            }
+        },
+        "Ethinicity" :{
+            "Dimension":{
+                "Date" : "Quarterly dates of the past five years",
+                "Ethinicity" : "Different Ethinic groups classification",
+                "Observation" : "The observed statistics in percentage"
+            },
+            "Measurement":{
+                "Ethnicity" : [
+                    "MÄori",
+                    "European",
+                    "Pacific",
+                    "Other (incl. Asian)",
+                    "Unknown"
+                ]
+            }
+            
+        },
+        "Offence Type" :{
+            "Dimension" :{
+                "Date" : "Quarterly dates of the past five years",
+                "Offense Type" : "Different Offence type committed by the prisoners",
+                "Observation" : "The observed statistics in percentage"            
+            },
+            "Measurement" :{
+                "Offense Type" :[
+                    "Sexual Assault",
+                    "Acts Intended To Cause Injury",
+                    "Unlawful Entry With Intent/Burglary",
+                    "Homicide",
+                    "Illicit Drug Offences",
+                    "Robbery, Extortion",
+                    "Offences Against Justice",
+                    "Theft",
+                    "Abduction, Harassment",
+                    "Prohibited And Regulated Weapons",
+                    "Traffic",
+                    "Fraud, Deception",
+                    "Property Damage",
+                    "Public Order",
+                    "Dangerous Or Negligent Acts",
+                    "Miscellaneous Offences",
+                    "Unknown",
+                    "Violence",
+                    "Drugs",
+                    "Dishonesty",
+                    "Other",
+                    "Weapons",
+                    "Breaches"
+                ]
+            }
+        },
+        "Prisoner Population" :{
+            "Dimension" :{
+                "Date" : "Quarterly dates of the past five years",
+                "Location" : "The different prison locations in New Zealand",
+                "Population Type" : "The different types of population of prisoners",
+                "Observation" : "The observed statistics of each population in count",
+                "Gender" : "The different genders in the prison"
+            },
+            "Measurement" : {
+                "Location" : [
+                    "Arohata Prison",
+                    "Auckland prison",
+                    "Auckland Region Women's Corrections Facility",
+                    "Auckland South Corrections Facility",
+                    "Christchurch Men's Prison",
+                    "Christchurch Women's Prison",
+                    "Hawke's Bay Regional Prison",
+                    "Invercargill Prison",
+                    "Manawatu Prison",
+                    "Mount Eden Corrections Facility",
+                    "Northland Region Corrections Facility",
+                    "Otago Corrections Facility",
+                    "Rimutaka Prison",
+                    "Rolleston Prison",
+                    "Spring Hill Corrections Facility",
+                    "Tongariro Prison",
+                    "Waikeria Prison",
+                    "Whanganui Prison"
+                ],
+                "Population Type" : [
+                    "Remand accused prisoners",
+                    "Remand convicted prisoners",
+                    "Sentenced prisoners",
+                    "Onsite population",
+                    "Offsite population",
+                    "Total population",
+                    "Population percentage"
+                ],
+                "Gender" : [
+                    "Female",
+                    "Male"
+                ]
+            }
+        },
+        "Security Class" :{
+            "Dimension" :{
+                "Date" : "Quarterly dates of the past five years",
+                "Security class" : "The different security classes that the prisoners are assigned to",
+                "Observation" : "The observed statistics in percentage"
+            },
+            "Measurement" :{
+                "Security class":[
+                    "Maximum",
+                    "High",
+                    "Low Medium",
+                    "Low",
+                    "Minimum",
+                    "Unclassified"
+                ]
+            }
+        }
+    }
+}

@@ -26,7 +26,7 @@ def get_first_link():
     # Send a GET request to the URL
     response = requests.get(download_link)
     cwd_directory = os.getcwd()
-    directory = r"Data Engineering\Individual"
+    directory = r"Download"
     directory = os.path.join(cwd_directory,directory)
     print(directory)
     full_path = os.path.join(directory,filename)

@@ -1,3 +1,5 @@
+################################################################################
+# Cleaning
 # Library to read the Downloaded Excel file
 library(readxl)
 library(writexl)
@@ -7,11 +9,11 @@ library(tidyr)
 path <- getwd()
 
 # Getting the filename of the downloaded excel file from the text named filename.txt
-filename <- paste0(path,"/filename.txt")
+filename <- paste0(path,"/Download/filename.txt")
 filename <- readLines(filename)
 
 # The path to the excel file
-path <- paste0(path,"/",filename)
+path <- paste0(path,"/Download/",filename)
 
 # Since the excel file consist of different Sheets, getting all the sheet names
 sheet_names <- excel_sheets(path)
@@ -124,11 +126,11 @@ list_population_df[[2]] <- Population[147:170, 2: ncol(Population)] #Women Priso
 list_population_df <- cleaning_df(list_population_df)
 
 filenames <- c( 
-  "Prisoner Population.csv", 
-  "Age Group.csv",
-  "Ethnicity.csv",
-  "Security Class.csv", 
-  "Offence Type.csv"
+  "Prisoner Population", 
+  "Age Group",
+  "Ethnicity",
+  "Security Class", 
+  "Offence Type"
   )
 
 # Total Prisoners Data is cleaned by the general cleaning process
@@ -199,4 +201,21 @@ rm(col_end)
 rm(list_AESO_df)
 rm(list_population_df)
 
-all_data <- make_csv(all_data, filenames)
+####################################################################################
+# creating CSV files.
+
+# Specify the directory where you want to save the CSV files
+path <- getwd()
+output_dir <- paste0(path,"/Cleaned/")
+
+# Create the directory if it doesn't exist
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir)
+}
+
+# Write each DataFrame to a separate CSV file
+for (i in 1:5) {
+  df <- all_data[[i]]
+  filename <- file.path(output_dir, paste0(filenames[i], ".csv"))
+  write.csv(df, filename, row.names = FALSE)
+}

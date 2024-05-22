@@ -42,7 +42,7 @@ All of this has been uploaded into an EC2 instance in AWS where all the files me
 
 The cron jobs are as below
 
-'''
+'''sh
 0 0 1 */3 * ~/university-projects/Data Engineering/Individual/scrapeData.py
 5 0 1 */3 * ~/university-projects/Data Engineering/Individual/cleaning.r
 6 0 1 */3 * ~/university-projects/Data Engineering/Individual/dataFlaskAPI.py

@@ -42,10 +42,10 @@ All of this has been uploaded into an EC2 instance in AWS where all the files me
 
 The cron jobs are as below
 
-'''sh
+```sh
 0 0 1 */3 * ~/university-projects/Data Engineering/Individual/scrapeData.py
 5 0 1 */3 * ~/university-projects/Data Engineering/Individual/cleaning.r
 6 0 1 */3 * ~/university-projects/Data Engineering/Individual/dataFlaskAPI.py
-'''
+```
 
-The cron jobs are set up in such a way that the scraper file will run at 12 am followed by cleaning file which will run 5 mins after the scraper, which is at 12:05 am and then the API will rerun a min after the cleaning function, i.e. that is 12:06 am.
+The cron jobs are set up in such a way that the scraper file will run at 12:00 am followed by cleaning file which will run 5 mins after the scraper, which is at 12:05 am and then the API will rerun a min after the cleaning function, i.e. that is 12:06 am.

@@ -25,3 +25,11 @@ This file provides the metadata about the tables and their dimensions and respec
 <b>requirements.txt</b>
 
 This file contains the different python and r packages that needs to be installed
+
+<b>Download</b>
+
+The downloaded quarterly statistics will show up here and the text file containing the filename will be placed here as well.
+
+<b>Cleaned</b>
+
+This directory consist of all the cleaned csv files that are obtained after running cleaning.r file.

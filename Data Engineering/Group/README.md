@@ -1,5 +1,3 @@
-This is the group project I've done for my data engineering project
-
 ### AIM
 
 To create a webapp that will provide an alternative solutions for the busroutes that are conjusted or blocked by the construction in Christchurch, New Zealand.

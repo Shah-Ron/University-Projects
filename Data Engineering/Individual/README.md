@@ -51,3 +51,9 @@ The cron jobs are as below
 ```
 
 These jobs are scheduled to run quarterly, with the data scraping script executing at 12:00 am, followed by the cleaning script at 12:05 am, and the API script at 12:06 am. This ensures that the latest data is always processed and made available efficiently.
+
+### API
+
+The links for the API data and metadata are as follows:
+ - [Data](http://3.107.51.162:5000/Shahron/prisonstatisticsapi)
+ - [Metadata](http://3.107.51.162:5000/Shahron/metadataapi)
